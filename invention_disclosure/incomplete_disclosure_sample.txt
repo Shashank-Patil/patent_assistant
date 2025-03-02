@@ -1,0 +1,32 @@
+1. Title of the Invention:
+Smart Plant Watering System
+
+2. Inventor Information:
+
+Name: John Doe
+3. Brief Description:
+A device designed to automatically water plants based on soil moisture levels, with connectivity to a smartphone app for monitoring.
+
+4. Detailed Description:
+
+Purpose:
+To maintain optimal soil moisture for indoor plants without manual intervention.
+Core Components:
+Soil moisture sensor
+Water pump integrated with a small water reservoir
+Basic control unit that activates the pump when soil moisture falls below a threshold
+Rechargeable battery for power
+Connectivity module for sending alerts to a smartphone app
+Functionality:
+The device is intended to monitor soil moisture and automatically activate the pump. It is also meant to notify the user through an app, although the specifics of the user interface and control options are not detailed.
+5. Unique Features:
+
+Claims to optimize water usage through automated sensing.
+Compact, portable design suitable for indoor settings.
+6. Advantages Over Prior Art:
+
+Saves time and conserves water compared to manual watering.
+
+7. Prior Art:
+
+Similar systems exist.
