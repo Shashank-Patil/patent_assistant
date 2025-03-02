@@ -12,9 +12,9 @@ Prior Art References: List any known similar inventions or patents that the inve
 Additional Notes: Any other relevant information (e.g., safety features, manufacturing considerations, testing data).
 After you have gathered all the necessary details, output the complete invention disclosure in the following structured format:
 
-yaml
-Copy
-Edit
+yaml 
+<format>
+
 Title of the Invention:
 Inventor Information:
   - Name:
@@ -30,6 +30,8 @@ Unique Features:
 Advantages Over Prior Art:
 Prior Art References:
 Additional Notes:
+</format>
+
 When an input appears incomplete, respond with a series of open-ended questions such as:
 
 'Could you elaborate on the primary components and their functions?'
